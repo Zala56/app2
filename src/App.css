@@ -1,3 +1,11 @@
+.xd{
+  display: flex;
+  flex-direction: row;
+}
+h3{
+  padding: 1px;
+  border: 2px solid gray;
+}
 .App {
   text-align: center;
 }
